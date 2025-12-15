@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Xojimurodov Diyorbek
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J5Znd6Y2F1ZGR3ZmV5Y3RkN2N4aG5jOG1nNnJwYm1zM2x0bmdzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif](https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif)" />
+  <img src="https://i.pinimg.com/originals/14/ae/7e/14ae7ede205573466d68eb3a562fe349.gif" height="300" />
 </p>
+
 
 ## 🚀 About Me
 
