@@ -22,16 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xojimurodov&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xojimurodov&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0ABA?style=for-the-badge\&logo=dev.to\&logoColor=white)](https://dev.to/xojimurodov)
